@@ -1,4 +1,4 @@
-const esFechaValida = require("../ejercicios/10");
+const esFechaValida = require("../ejercicios/10.js");
 
 describe("esFechaValida", () => {
   test("should return true for a valid date", () => {
